@@ -1,8 +1,7 @@
 # E-commerce
 to install dependencies 
-npm i 
-or 
-npm install
+npm i
+
 to run 
 npm run dev
 
